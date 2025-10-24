@@ -7,7 +7,7 @@ Figure out what the program prints without running it! At last run it to test yo
 If what you expected does not align with the result, use the debugger! (line-by-line)
 */
 
-
+#include <stdio.h> 
 void func1(int i2) {
     i2 *= 2;
     printf("func1()... i2 = %d\n", i2);     // 4
