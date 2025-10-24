@@ -4,7 +4,7 @@
         {
             "label": "C/C++: gcc-12 build active file",
             "type": "cppbuild",
-            "command": gcc",
+            "command": "gcc",
             "args": [
                 "-Wall",
                 "-Wextra",
